@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Estudar Vue.js",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Estudar Laravel",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Estudar Cypress",
+      "completed": false
+    },
+    {
+      "id": "7684",
+      "title": "Estudar POO",
+      "completed": false
+    }
+  ]
+}
