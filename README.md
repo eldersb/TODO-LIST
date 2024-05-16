@@ -1,9 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# Lista de tarefas - TODO-LIST
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Atividade que cria um CRUD de lista de tarefas, fazendo requisições HTTP via Axios.
 
-## Recommended Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
-
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+## Tecnologias Utilizadas:
+ * Javascript(TS)
+ * Axios
+ * JSON Server
+ * VITE
+ * Bootstrap
+   
+## Imagem do projeto:
+![TODO-LIST](https://github.com/eldersb/vue_axios/assets/122701368/b07899d4-cc49-43fe-8529-f55cc043bf31)
