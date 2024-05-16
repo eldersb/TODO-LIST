@@ -1,4 +1,4 @@
-![image](https://github.com/eldersb/TODO-LIST/assets/122701368/cd0e0f68-79d6-4f3c-9940-d8426be3f9cf)# Lista de tarefas - TODO-LIST
+# Lista de tarefas - TODO-LIST
 
 Atividade que cria um CRUD de lista de tarefas, fazendo requisições HTTP via Axios.
 
